@@ -1,0 +1,60 @@
+Dans le garage nous avons un tabouret en bois que Jean a taillé pendant ce weekend de Noël.	Qu'est-ce que Jean a taillé pendant ce weekend de Noël?	s
+"À ma sœur, ils ont donné un bol d'albâtre qu'ils ont poli jusqu'à qu'il soit pareil au marbre."	Qu'est-ce qui est pareil au marbre?	s
+Hier ils m'ont donné un pull de coton qui était importé illégalement.	Qu'est-ce qui était importé illégalement?	s
+Maria a fait une ceinture de laine que Pierre a beaucoup aimée.	Qu'est-ce que Pierre a beaucoup aimé?	s
+Enfin ils ont placé un timbre de bronze qu'ils avaient pris dans une fonderie.	Qu'est-ce qu'ils avaient pris dans une fonderie?	s
+"Hier, nous avons mangé un gâteau de riz qu'on nous a vendu dans un magasin oriental."	Qu'est-ce qu'on nous a vendu dans un magasin oriental?	s
+Le prof parlait avec un parent d'un garçon qui était à l'hôpital.	Qui était à l'hôpital?	s
+Le journaliste avait interviewé un fils d'un colonel qui avait été dans un accident.	Qui avait été dans un accident?	s
+Ce matin j'ai rencontré un oncle d'un mécanicien qui habite dans le bâtiment où j'habite.	Qui habite dans le bâtiment où j'habite?	s
+La police a arrêté un cousin d'un peintre qui était à Marbella.	Qui était à Marbella?	s
+Le portier parlait à une sœur d'une nurse qui était une amie de ma mère.	Qui était une amie de ma mère?	s
+Tous nos amis ont aimé un oncle d'un étudiant d'échange qui nous rendait visite.	Qui nous rendait visite?	s
+L'explosion a rendu sourd un assistant d'un inspecteur qui était non loin du magasin.	Qui était non loin du magasin?	s
+Le mois prochain on va envoyer à l'étranger un secrétaire d'un gérant qui fait des heures supplémentaires au bureau.	Qui fait des heures supplémentaires au bureau?	s
+Plusieurs malades ont aimé un infirmier d'un chirurgien qui vient de commencer à travailler dans l'hôpital.	Qui vient de commencer à travailler dans l'hôpital?	s
+Je parlais à un apprenti d'un tailleur qui était à Paris peu de temps.	Qui était à Paris peu de temps?	s
+Hier j'ai vu un conseilleur d'un directeur qui était triste à cause de la réponse misérable à la dernière promotion commerciale.	Qui était triste?	s
+"Durant la réunion, le chef du protocole a tenté de parler à un traducteur d'un ambassadeur qui n'a pas eu une invitation à la soirée."	Qui n'a pas eu une invitation à la soirée?	s
+Laure a perdu un carnet avec un sticker que Pierre lui a donné.	Qu'est-ce que Pierre a donné à Laure?	s
+On a accordé de replacer dans un autre bâtiment un ordinateur avec un moniteur que nous avions acheté récemment.	Qu'est-ce que nous avions acheté récemment?	s
+Je voudrais prendre une radio avec une enceinte acoustique que j'ai achetée à bas prix.	Qu'est-ce que j'ai acheté à bas prix?	s
+Sur le rayon j'ai une boîte avec une couverture que Pierre a vernie.	Qu'est-ce que Pierre a verni?	s
+Le comte a demandé un steak avec une sauce que le chef prépare particulièrement bien.	Qu'est-ce que le chef prépare particuièlerement bien?	s
+J'ai apporté au bijoutier un bracelet avec un rubis que j'avais acheté en Colombie.	Qu'est-ce que j'avais acheté en Colombie?	s
+Mon père dormait sur le sofa tandis que dans la cuisine ma mère lui préparait le repas.	Où dormait le père?	f
+"Sur la fenêtre, le chat regardait un oiseau qui cherchait des grains dans la rue."	Où était le chat?	f
+Andrès a mangé de la lasagne italienne dans le café parisien en attendant son vieil ami de Prague.	Où Andrès attendait son ami?	f
+Marie  travaille à Paris depuis qu'elle a obtenu son certificat de guide en Grèce.	Où travaille Marie?	f
+J'ai vu Danielle au concert de sa sœur avec qui nous avons voyagé l'année dernière.	Où ai-je vu Danielle?	f
+Pierre a acheté ce beau livre sur l'Italie dans une librairie nantaise qui se trouve près de sa maison.	"Pierre, où a-t-il acheté le livre?"	f
+Nous avons regardé ce film chez nous bien que nos amis nous l'aient déjà montré .	Où avons-nous regardé le film?	f
+"John vient du Portugal, mais il est né au Mexique et ses parents sont anglais, c'est pourquoi il parle trois langues."	"John, où est-il né?"	f
+"Je préfère le zoo qui se trouve à Moscou, bien que mon aquarium préféré soit à Saint-Pétersbourg."	Où est mon zoo préféré?	f
+Il y a deux ans Lucie a décidé de déménager à cause des loyers très chers en 2014.	"Lucie, quand a-t-elle décidé de déménager?"	f
+Ma mère n'a pas travaillé pendant six ans parce que sa sœur était gravement malade.	Combien de temps n'a pas travaillé ma mère?	f
+J'étais en troisième année à l'université quand on a découvert cette météorite.	Quand a-t-on découvert la météorite?	f
+Nous avons voyagé en Australie après le mariage de mon frère parce que sa femme y travaillait depuis mai précédent.	Quand avons-nous voyagé en Australie?	f
+Agathe et ses amies ont créé cette organisation quand elles ont examiné attentivement la situation sur le marché du travail.	"Agathe et ses amies, quand ont-elles créé l'organisation?"	f
+"Ce matin, le prof a publié son nouveau livre qu'il avait écrit pendant toute sa carrière à l'université."	"Le prof, quand a-t-il publié son livre?"	f
+J'ai dîné avec un amateur de football lorsque le match a été annulé à cause des conditions climatiques.	Quand ai-je dîné avec un amateur de football?	f
+La conférence sur les inventions biologiques commence ses travaux début mars.	"La conférence, quand commence-t-elle ses travaux?"	f
+"J'ai été à la mer juste une fois en 2014, mais je voudrais bien y aller encore."	Quand ai-je été à la mer?	f
+"Le chauffeur est ivre, c'est pourquoi il conduit la voiture si vite."	"Le chauffeur, comment conduit-il la voiture?"	f
+Anne vous conseille vivement de visiter cette nouvelle exposition consacrée au changement écologique.	"Anne, comment conseille-t-elle?"	f
+En s'entraînant jour après jour il devenait plus fort pout lutter contre les occupants nordiques.	Comment devenait-il plus fort?	f
+Jacques mange à la hâte parce qu'il est en retard.	Comment mange Jacques?	f
+Marthe prépare de la viande en utilisant beuacoup de sauce soja.	"Marthe, comment prépare-t-elle de la viande?"	f
+Je n'aime pas écouter les gens qui parlent à voix très haute.	Comment parlent les gens que je n'aime pas écouter?	f
+La fille répond assez intelligemment aux questions povocantes d'autres enfants.	Comment répond la fille?	f
+Le garçon a sauvé bravement un petit chat qui était sur un arbre et avait peur de la hauteur.	"Le garçon, comment a-t-il sauvé le chat?"	f
+Les metteurs en scène ont changé leur conception et la fin de cette histoire sera heureuse.	Comment finira l'histoire?	f
+"Ce soir, j'ai vu un oiseau bleu sur ma fenêtre qui se cachait de grandes corneilles."	Quel oiseau ai-je vu?	f
+"Quand nous allons à Barcelone, nous achetons toujours des livres catalans."	Quels livres achetons-nous à Barcelone?	f
+"La comédie finit par une chanson très mélodique, mais dont je ne connais pas l'auteur."	Par quelle chanson finit la comédie?	f
+C'était une semaine dure mais nous avons fini toutes les tâches avant l'échéance.	Quelle semaine avions-nous?	f
+Simone déteste quand on porte des vêtements en fourrure naturelle d'animaux sauvages.	"Simone, quels vêtements déteste-t-elle?"	f
+"Bien qu'on parle italien et français ici, on est obligé d'apprendre la grammaire latine."	Quelle grammaire doit-on apprendre?	f
+"Provence-Alpes-Côte d'Azur (PACA) et Aix-en-Provence, ce sont la région et la ville les plus ensoleillées de France."	Quelle région est la plus ensoleillée en France?	f
+La Terre est la troisième planète dans le système solaire après Mercure et Vénus.	Quelle planète est la deuxième dans le système solaire?	f
+"J'ai acheté par hasard une bouteille d'eau gazeuse, mais je ne bois que de l'eau plate."	Quelle eau bois-je?	f
